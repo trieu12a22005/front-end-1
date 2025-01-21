@@ -1,0 +1,145 @@
+{
+  "products": [
+    {
+        "id" : 1,
+        "product_name": "Nike Air Max",
+        "product_description": "Comfortable running shoes",
+        "product_price": 120,
+        "product_sizes": [38, 39, 40, 41],
+        "product_stock": 50,
+        "product_category": "Men",
+        "product_brand": "Nike",
+        "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+        "isFeatured": true,
+        "price" :1500000
+      
+    },
+    {
+      "id" : 2,
+      "product_name": "Nike Air Max",
+      "product_description": "Comfortable running shoes",
+      "product_price": 120,
+      "product_sizes": [38, 39, 40, 41],
+      "product_stock": 50,
+      "product_category": "Men",
+      "product_brand": "Nike",
+      "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+      "isFeatured": true,
+      "price" :1500000
+    
+  },
+  {
+    "id" : 3,
+    "product_name": "Nike Air Max",
+    "product_description": "Comfortable running shoes",
+    "product_price": 120,
+    "product_sizes": [38, 39, 40, 41],
+    "product_stock": 50,
+    "product_category": "Men",
+    "product_brand": "Nike",
+    "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+    "isFeatured": true,
+    "price" :1500000
+  
+},
+{
+  "id" : 4,
+  "product_name": "Nike Air Max",
+  "product_description": "Comfortable running shoes",
+  "product_price": 120,
+  "product_sizes": [38, 39, 40, 41],
+  "product_stock": 50,
+  "product_category": "Men",
+  "product_brand": "Nike",
+  "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+  "isFeatured": true,
+  "price" :1500000
+
+},
+{
+  "id" : 5,
+  "product_name": "Nike Air Max",
+  "product_description": "Comfortable running shoes",
+  "product_price": 120,
+  "product_sizes": [38, 39, 40, 41],
+  "product_stock": 50,
+  "product_category": "Men",
+  "product_brand": "Nike",
+  "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+  "isFeatured": true,
+  "price" :1500000
+
+},
+{
+  "id" : 6,
+  "product_name": "Nike Air Max",
+  "product_description": "Comfortable running shoes",
+  "product_price": 120,
+  "product_sizes": [38, 39, 40, 41],
+  "product_stock": 50,
+  "product_category": "Men",
+  "product_brand": "Nike",
+  "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+  "isFeatured": true,
+  "price" :1500000
+
+},
+{
+  "id" : 7,
+  "product_name": "Nike Air Max",
+  "product_description": "Comfortable running shoes",
+  "product_price": 120,
+  "product_sizes": [38, 39, 40, 41],
+  "product_stock": 50,
+  "product_category": "Men",
+  "product_brand": "Nike",
+  "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+  "isFeatured": true,
+  "price" :1500000
+
+},
+{
+  "id" : 8,
+  "product_name": "Nike Air Max",
+  "product_description": "Comfortable running shoes",
+  "product_price": 120,
+  "product_sizes": [38, 39, 40, 41],
+  "product_stock": 50,
+  "product_category": "Men",
+  "product_brand": "Nike",
+  "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+  "isFeatured": true,
+  "price" :1500000
+  
+
+},
+{
+  "id" : 9,
+  "product_name": "Nike Air Max",
+  "product_description": "Comfortable running shoes",
+  "product_price": 120,
+  "product_sizes": [38, 39, 40, 41],
+  "product_stock": 50,
+  "product_category": "Men",
+  "product_brand": "Nike",
+  "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+  "isFeatured": true,
+  "price" :1500000
+
+},
+{
+  "id" : 10,
+  "product_name": "Nike Air Max",
+  "product_description": "Comfortable running shoes",
+  "product_price": 120,
+  "product_sizes": [38, 39, 40, 41],
+  "product_stock": 50,
+  "product_category": "Men",
+  "product_brand": "Nike",
+  "product_thumbnails": "https://contents.mediadecathlon.com/p2449854/k$f07276116e91b65093ca11b09c2b9ce0/women-s-multi-court-tennis-shoes-essential-off-white-artengo-8652176.jpg?f=1920x0&format=auto",
+  "isFeatured": true,
+  "price" :1500000
+
+}
+]
+  }
